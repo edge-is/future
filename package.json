@@ -10,6 +10,9 @@
     "Future",
     "files"
   ],
+   "bin": {
+    "future": "index.js"
+  },
   "author": "Ágúst Ingi Kjartansson",
   "license": "GPL-3.0",
   "dependencies": {

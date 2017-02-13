@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 var argv = require('yargs').argv;
 
 var path = require('path');
